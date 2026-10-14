@@ -1,0 +1,10 @@
+{
+  "project": "PODMAN",
+  "category": "INFRA_DEVOPS",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\INFRA_DEVOPS\\PODMAN",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head='REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE'; sanitized clone or .git absent)",
+  "files_count": 572,
+  "lines_of_code": 35712,
+  "sha": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+}
